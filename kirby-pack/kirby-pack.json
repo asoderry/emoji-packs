@@ -1,10 +1,10 @@
 {
-  "Kirby Emojis": {
+  "KirbyEmojis": {
     "type": "image",
     "container": [
       {
-        "text": "kirby-happy",
-        "icon": "<img src='https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F9vmidoinkm9f1.jpeg'>"
+        "text": "KirbyHappy",
+        "icon": "<img src='https://i.gifer.com/45RT.gif'>"
       }
     ]
   }
