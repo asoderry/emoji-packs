@@ -5,6 +5,10 @@
       {
         "text": "KirbyHappy",
         "icon": "<img src='https://i.gifer.com/45RT.gif'>"
+      },
+      {
+        "text": "KirbySad",
+        "icon": "<img src='https://i.gifer.com/45RT.gif'>"
       }
     ]
   }
